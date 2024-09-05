@@ -3,6 +3,7 @@
 📑 Ensino Médio completo
 🌱 Entrando nesse mercado
 📫 Pronomes: Ela/Dela
+😊 18 anos
 
 
 ### ✍️ Status
