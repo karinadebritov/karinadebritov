@@ -7,7 +7,7 @@
 
 
 ### ✍️ Status
-   ![](https://github-readme-stats.vercel.app/api?username=KarinaViana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api?username=KarinaViana&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
