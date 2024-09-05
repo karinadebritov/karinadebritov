@@ -1,5 +1,6 @@
  👋 OLÁ, eu sou Karina de Brito Viana
 👀 Estudando Técnico de Desenvolvimento de sistemas no Senai
+📑 Ensino Médio completo
 🌱 Entrando nesse mercado
 📫 Pronomes: Ela/Dela
 
