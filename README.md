@@ -3,7 +3,7 @@
 - 🌱 Ainda sem muita experiencia nesse mercado
 - 📫 Pronomes: Ela/Dela
 
-
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
 
 <!--- ultimo--->
 - <div style="display: inline_block"><br>
